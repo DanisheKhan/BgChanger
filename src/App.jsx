@@ -38,7 +38,7 @@ function App() {
           style={{ backgroundColor: "gray" }}
           onClick={() => setColor("gray")}
         >
-          Yellow
+          Gray
         </button>
         <button
           className="py-2 px-4 rounded-md "
